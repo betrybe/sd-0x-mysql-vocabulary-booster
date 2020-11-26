@@ -1,4 +1,4 @@
-const challengeResult19 = [
+const challengeResult20 = [
   {
     'Nome completo': 'Neena Kochhar',
     'Departamento': 'Accounting',
@@ -11,4 +11,4 @@ const challengeResult19 = [
   }
 ];
 
-module.exports = challengeResult19;
+module.exports = challengeResult20;

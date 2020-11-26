@@ -1,5 +1,5 @@
-const challengeResult18 = [
+const challengeResult19 = [
   { total: 14 }
 ];
 
-module.exports = challengeResult18;
+module.exports = challengeResult19;

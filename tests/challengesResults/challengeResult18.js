@@ -1,4 +1,4 @@
-const challengeResult17 = [
+const challengeResult18 = [
   {
     'Nome completo': 'Den Raphaely',
     'Data de início': '24/03/1998',
@@ -61,4 +61,4 @@ const challengeResult17 = [
   }
 ];
 
-module.exports = challengeResult17;
+module.exports = challengeResult18;
