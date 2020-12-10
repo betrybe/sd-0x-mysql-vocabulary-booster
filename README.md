@@ -94,7 +94,7 @@ Neste projeto você fará uso de dois bancos de dados: o `hr` e um inédito cham
 
 Temos, nesse projeto, uma série de desafios com diferentes níveis de complexidade que devem ser resolvidos cada um em seu arquivo próprio.
 
-1. Leia a pergunta e crie um arquivo chamado `desafioN.sql`, em que N é o número do desafio.
+1. Leia a pergunta e crie na raiz do projeto um arquivo chamado `desafioN.sql`, em que N é o número do desafio.
 
 2. O arquivo deve conter apenas o código SQL do desafio resolvido. **Não se esqueça de incluir o ponto e vírgula (";")** no final de suas queries e também de colocar o nome do **banco_de_dados.tabela_por_completo**, como no exemplo a seguir:
 ```sql
@@ -107,7 +107,7 @@ SELECT * FROM hr.countries;
 
 5. Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório. Este _Pull Request_ deverá conter os arquivos `desafio1.sql`, `desafio2.sql` e assim por diante até o `desafio16.sql`, que conterão seu código `SQL` de cada desafio obrigatório, respectivamente. Se você fizer desafio bônus, o seu _Pull Request_ também deverá conter o arquivo `desafio17.sql` (caso faça o desafio 17), `desafio18.sql` (caso faça o desafio 18) e o `desafio19.sql` (caso faça o desafio 19).
 
-## ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
+## ⚠️ É importante que seus arquivos tenham exatamente estes nomes e estejam na raiz do projeto! ⚠️
 
 Qualquer dúvida, procure a monitoria. Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://course.betrybe.com/intro/git/) sempre que precisar!
 
