@@ -589,6 +589,8 @@ Agora teste a funcionalidade da trigger:
 
 2. Monte uma query que mostre todos os `CustomerID` igual a 4.
 
+Obs.: Não é necessário incluir as queries para INSERIR e SELECIONAR, elas já vão ser executadas automaticamente pelo próprio teste.
+
 ---
 
 ## BÔNUS:
