@@ -337,7 +337,7 @@ Em caso de empate na média, os resultados devem ser ordenados pelo nome do carg
 
 ## Desafio 5
 
-Considere os salários máximo e mínimo de um cargo como salários anuais.
+⚠️ Considere os salários máximo e mínimo de um cargo como salários anuais. ⚠️
 
 >Use o banco `hr` como referência
 
@@ -347,9 +347,9 @@ Crie uma query que exiba 04 colunas:
 
 2. A segunda deve possuir o alias "**Variação Salarial**" e exibir a diferença entre os salários máximo e mínimo daquele cargo.
 
-3. A terceira deve possuir o alias "**Média mínima mensal**" e exibir a média mínima **mensal** daquele cargo. Arredonde a média com uma precisão de duas casas decimais.
+3. A terceira deve possuir o alias "**Média mínima mensal**" e exibir o salário mínimo **mensal** daquele cargo. Arredonde a média com uma precisão de duas casas decimais.
 
-4. A quarta deve possuir o alias "**Média máxima mensal**" e exibir a média máxima **mensal** daquele cargo. Arredonde a média com uma precisão de duas casas decimais.
+4. A quarta deve possuir o alias "**Média máxima mensal**" e exibir o salário máximo **mensal** daquele cargo. Arredonde a média com uma precisão de duas casas decimais.
 
 Os resultados devem estar ordenados pela variação salarial em ordem crescente.
 
