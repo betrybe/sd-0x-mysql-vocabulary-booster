@@ -583,13 +583,13 @@ Crie uma TRIGGER que, a cada nova inserção realizada na tabela `orders`, insir
 
 >Use o banco `w3schools` como referência
 
-Agora teste a funcionalidade da trigger: 
+A partir disso, o avaliador vai executar dois processos:
 
-1. Insira na tabela `orders`um novo registro com os dados: `CustomerID` com valor 4, `EmployeeID` com valor 2 e `ShipperID` com valor 2;
+1. Inserir na tabela `orders`um novo registro com os dados: `CustomerID` com valor 4, `EmployeeID` com valor 2 e `ShipperID` com valor 2;
 
-2. Monte uma query que mostre todos os `CustomerID` igual a 4.
+2. Montar uma query que mostre todos os `CustomerID` igual a 4.
 
-Obs.: Não é necessário incluir as queries para INSERIR e SELECIONAR, elas já vão ser executadas automaticamente pelo próprio teste.
+Retomando que não é necessário incluir as queries para INSERIR e SELECIONAR, elas já vão ser executadas automaticamente pelo próprio teste.
 
 ---
 
