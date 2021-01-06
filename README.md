@@ -106,6 +106,7 @@ SELECT * FROM hr.countries;
 4. Faça isso até finalizar todos os desafios e depois siga as instruções de como entregar o projeto em [**Instruções para entregar seu projeto**](#instruções-para-entregar-seu-projeto)
 
 5. Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório. Este _Pull Request_ deverá conter os arquivos `desafio1.sql`, `desafio2.sql` e assim por diante até o `desafio16.sql`, que conterão seu código `SQL` de cada desafio obrigatório, respectivamente. Se você fizer desafio bônus, o seu _Pull Request_ também deverá conter o arquivo `desafio17.sql` (caso faça o desafio 17), `desafio18.sql` (caso faça o desafio 18) e o `desafio19.sql` (caso faça o desafio 19).
+Para criar vários arquivos de uma vez, utilize `touch desafio{1..X}.sql`
 
 ## ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
 
